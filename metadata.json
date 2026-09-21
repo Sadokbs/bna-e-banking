@@ -1,0 +1,6 @@
+{
+  "name": "BNA E-Banking",
+  "description": "Portail E-Banking BNA avec base de données sécurisée, attribution d'identifiants uniques stricts par utilisateur et chiffrement systématique des mots de passe (SHA-256/PBKDF2).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
